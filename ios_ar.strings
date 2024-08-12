@@ -1,1 +1,10 @@
-"test_warning_before_start_title" = "%1$@ اختبار"; // %1$@ is for level
+/* %1$@ is a user name. E.g: Stephen's language */
+"test_warning_before_start_title" = "%1$@ اختبار";
+
+/* %1$@ is a user name. E.g: Stephen's language */
+"test_warning_before_start_title2" = "%1$@ اختبار";
+
+/* %1$@ is a user name. E.g: Stephen's language */
+"test_warning_before_start_title3" = "%1$@ اختبار موصل جيثب";
+
+"test_warning_before_start_title4" = "%1$@ language"; // %1$@ is for level
