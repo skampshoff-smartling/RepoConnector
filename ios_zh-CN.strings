@@ -7,4 +7,4 @@
 /* %1$@ is a user name. E.g: Stephen's language */
 "test_warning_before_start_title3" = "%1$@测试 GitHub 连接器";
 
-"test_warning_before_start_title4" = "%1$@ language"; // %1$@ is for level
+"test_warning_before_start_title4" = "%1$@语言"; // %1$@ is for level
