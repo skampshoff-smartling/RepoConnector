@@ -1,10 +1,2 @@
 /* %1$@ is a user name. E.g: Stephen's language */
-"test_warning_before_start_title" = "%1$@ テスト";
-
-/* %1$@ is a user name. E.g: Stephen's language */
-"test_warning_before_start_title2" = "%1$@ テスト";
-
-/* %1$@ is a user name. E.g: Stephen's language */
-"test_warning_before_start_title3" = "GitHub Connector のテスト%1$@";
-
-"test_warning_before_start_title4" = "%1$@ 言語"; // %1$@ is for level
+"test_warning_before_start_title_sean" = "削除テスト";
